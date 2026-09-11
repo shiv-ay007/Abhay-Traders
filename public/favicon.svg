@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Center Vertical Grain Sprout (Vibrant Green) -->
+  <path d="M50 10 C53 26 53.5 48 50 76 C46.5 48 47 26 50 10 Z" fill="#16a34a" />
+  <!-- Top Left Leaf (Tangerine Orange) -->
+  <path d="M48 34 C36 24 24 25 20 32 C18 42 30 46 46 44 Z" fill="#ea580c" />
+  <!-- Top Right Leaf (Lime Green) -->
+  <path d="M52 34 C64 24 76 25 80 32 C82 42 70 46 54 44 Z" fill="#65a30d" />
+  <!-- Middle Left Leaf (Warm Golden Amber) -->
+  <path d="M47 50 C32 42 18 46 16 54 C15 64 30 64 45 57 Z" fill="#f59e0b" />
+  <!-- Middle Right Leaf (Vibrant Emerald) -->
+  <path d="M53 50 C68 42 82 46 84 54 C85 64 70 64 55 57 Z" fill="#10b981" />
+  <!-- Bottom Left Leaf (Golden Yellow) -->
+  <path d="M48 64 C35 60 25 66 25 74 C26 81 38 78 47 70 Z" fill="#eab308" />
+  <!-- Bottom Right Leaf (Deep Forest Green) -->
+  <path d="M52 64 C65 60 75 66 75 74 C74 81 62 78 53 70 Z" fill="#059669" />
+  <!-- Base Seed Stem Node -->
+  <circle cx="50" cy="78" r="3.5" fill="#15803d" />
+</svg>

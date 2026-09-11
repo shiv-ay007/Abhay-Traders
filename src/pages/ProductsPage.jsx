@@ -331,7 +331,7 @@ export default function ProductsPage() {
                       </button>
 
                       <button
-                        onClick={onOpenQuote}
+                        onClick={() => setIsQuoteOpen(true)}
                         className="px-4 py-2.5 rounded-xl bg-emerald-800 hover:bg-emerald-900 text-white font-bold text-xs shadow-md transition cursor-pointer"
                       >
                         Book Lot
